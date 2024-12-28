@@ -14,7 +14,7 @@ Traditional methods and tools for data management are designed to handle smaller
 Big data emerged due to rapid data growth from sources like social media and IoT, the need to handle complex data types, demand for real-time insights, advancements in technology, and the pursuit of a competitive edge through data-driven decisions.
 
 ### What are 5 V's of Big Data?
-![alt text](5V's.png)
+![alt text](Images/5V's.png)
 
 #### 1. Volume
 | Type              | Definition                                                     |
