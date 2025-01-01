@@ -1,4 +1,4 @@
-## Distributed Systems
+## System/Scaling Types
 
 ![alt text](Images/Scaling.png)
 
