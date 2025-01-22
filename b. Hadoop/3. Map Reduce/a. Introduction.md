@@ -1,6 +1,5 @@
 ## MapReduce
 MapReduce is a programming model for processing large datasets in a distributed computing environment.
-
 ![alt text](Images/HDFSP.png)
 
 #### Advantages:
@@ -14,7 +13,6 @@ MapReduce is a programming model for processing large datasets in a distributed 
 - Usage has declined; less than 5% of companies now use MapReduce due to modern alternatives like Spark.
 
 ### Terminology
-
 - Locality:
 Processing data on the same node where it is stored to minimize network overhead and improve efficiency.
 - Parallelism:
