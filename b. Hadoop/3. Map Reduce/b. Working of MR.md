@@ -10,6 +10,9 @@ b) Mapping: Processes each split to generate intermediate key-value pairs (e.g.,
 c) Shuffling: Groups and combines intermediate outputs based on keys (e.g., words).
 d) Reducing: Aggregates shuffled data to produce the final output (e.g., word frequencies).
 
+### Word Counter Example
+![alt text](Images/Example.png)
+
 ### Important Points:
 
 1. One CPU core can process 1 mapper job on 1 block (input split) of data
