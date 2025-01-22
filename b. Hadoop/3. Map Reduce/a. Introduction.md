@@ -1,9 +1,19 @@
-## Map Reduce
+## MapReduce
+MapReduce is a programming model for processing large datasets in a distributed computing environment.
 
-MapReduce in Hadoop is used for distributed processing with parallelism and data locality, ensuring efficient computation by processing data where it is stored.
+#### Advantages:
+- Scalability
+- Fault tolerance
+- Parallelism
+- Data locality
 
-### Locality: 
-Processing data on the same node where it is stored to reduce network overhead.
+#### Drawbacks:
+- Complex to write and debug
+- Usage has declined; less than 5% of companies now use MapReduce due to modern alternatives like Spark.
 
-### Parallelism: 
-Splitting tasks into smaller units and executing them simultaneously across multiple nodes for faster processing.
+### Terminology
+
+- Locality:
+Processing data on the same node where it is stored to minimize network overhead and improve efficiency.
+- Parallelism:
+Dividing tasks into smaller sub-tasks and executing them simultaneously across multiple nodes to speed up processing.
