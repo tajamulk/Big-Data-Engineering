@@ -9,3 +9,7 @@ a) Input Splits: Input data is divided into smaller units (splits), each process
 b) Mapping: Processes each split to generate intermediate key-value pairs (e.g., words and their counts).
 c) Shuffling: Groups and combines intermediate outputs based on keys (e.g., words).
 d) Reducing: Aggregates shuffled data to produce the final output (e.g., word frequencies).
+
+### Important Points:
+
+1. One CPU core can process 1 mapper job on 1 block (input split) of data
