@@ -1,3 +1,3 @@
 ## Working of MR
 
-![alt text](Images/HDFSP.png)
+![alt text](Images/Understanding.png)

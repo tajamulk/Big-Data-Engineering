@@ -1,6 +1,8 @@
 ## MapReduce
 MapReduce is a programming model for processing large datasets in a distributed computing environment.
 
+![alt text](Images/HDFSP.png)
+
 #### Advantages:
 - Scalability
 - Fault tolerance
