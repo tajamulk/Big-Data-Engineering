@@ -14,5 +14,5 @@ d) Reducing: Aggregates shuffled data to produce the final output (e.g., word fr
 ![alt text](Images/Example.png)
 
 ### Important Points:
-
 1. One CPU core can process 1 mapper job on 1 block (input split) of data
+2. Map reduce doesn't make sense for small data
