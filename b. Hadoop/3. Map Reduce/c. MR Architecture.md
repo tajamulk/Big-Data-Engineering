@@ -1,6 +1,6 @@
 ## MR Architecture
 
-![alt text](Images/MRArch.png.png)
+![alt text](Images/MRArch.png)
 
 - Client: Sends jobs (tasks) to the MapReduce system for processing.
 - Job: Represents the work to be done, broken into smaller tasks for processing.
